@@ -94,3 +94,6 @@ webui/.verify-*
 nanobot/_build_commit.txt
 
 nanobot/skills/nanobot-document/references/
+
+# llm url和key
+tutorials_lgx/req_llm/config.json
